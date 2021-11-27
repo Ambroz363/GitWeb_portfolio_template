@@ -1,2 +1,2 @@
 # portfolio_template
-Testing a few Git commands
+A simple template for a portfolio.
